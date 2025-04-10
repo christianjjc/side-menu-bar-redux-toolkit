@@ -1,6 +1,6 @@
 # Side Menú Bar --> Vite + Redux Toolkit + Tailwindcss
 
-## [Míralo en Youtube](https://www.youtube.com/watch?v=aMHEgcqsar8)
+## [Míralo en Youtube](https://youtu.be/aMHEgcqsar8)
 
 ### Side Menú Bar (Menú lateral)
 
